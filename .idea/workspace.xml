@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d23ec77a-5cbf-473b-882d-900e6dbd68b2" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2lWUbSvUG7fqpbPbNmP5wWXpbCM" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/icons" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\WebstormProjects\travel sayt\assets\icons" />
+      <recent name="C:\Users\HP\WebstormProjects\travel sayt\assets\img" />
+      <recent name="C:\Users\HP\WebstormProjects\travel sayt\assets" />
+      <recent name="C:\Users\HP\WebstormProjects\travel sayt" />
+      <recent name="C:\Users\HP\WebstormProjects\travel sayt\css" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d23ec77a-5cbf-473b-882d-900e6dbd68b2" name="Default Changelist" comment="" />
+      <created>1725295396805</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725295396805</updated>
+      <workItem from="1725295398843" duration="1185000" />
+      <workItem from="1725524085252" duration="699000" />
+      <workItem from="1725525481679" duration="286000" />
+      <workItem from="1725566587937" duration="1130000" />
+      <workItem from="1725568946488" duration="1807000" />
+      <workItem from="1725601257377" duration="1823000" />
+      <workItem from="1725603170606" duration="1729000" />
+      <workItem from="1725604964999" duration="1931000" />
+      <workItem from="1725606929616" duration="997000" />
+      <workItem from="1725613522712" duration="779000" />
+      <workItem from="1725874946640" duration="1774000" />
+      <workItem from="1725876777958" duration="1742000" />
+      <workItem from="1725878797692" duration="265000" />
+      <workItem from="1725888320067" duration="410000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
